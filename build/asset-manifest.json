@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tacospedidos/static/css/main.39c7315a.css",
+    "main.js": "/tacospedidos/static/js/main.a900856a.js",
+    "static/media/LogoOficial.png": "/tacospedidos/static/media/LogoOficial.3ef806c7db9fe62620cc.png",
+    "static/media/colo8.jpeg": "/tacospedidos/static/media/colo8.35705efb840479f25974.jpeg",
+    "index.html": "/tacospedidos/index.html",
+    "main.39c7315a.css.map": "/tacospedidos/static/css/main.39c7315a.css.map",
+    "main.a900856a.js.map": "/tacospedidos/static/js/main.a900856a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39c7315a.css",
+    "static/js/main.a900856a.js"
+  ]
+}
